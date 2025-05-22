@@ -13,3 +13,5 @@ Isso não significa que você não tem liberdade. A genialidade está em como vo
 como você reinterpreta o código. Mas a próxima vez que achar que teve uma ideia original, pergunte-se:
 será que estou escolhendo, ou apenas seguindo um padrão que já foi escrito?
 A computação nos ensina que, no fundo, tudo pode ser reduzido a 0 ou 1 — e talvez nossas escolhas também.
+
+Você já parou para pensar que todas as suas escolhas, suas ideias mais geniais, podem ser reduzidas a uma lógica binária — 0 ou 1? No fundo, tudo na vida, desde as decisões que tomamos até as máquinas que usamos, parece seguir um padrão predefinido, como se as opções já estivessem traçadas. A computação, que molda nosso mundo, é construída sobre essa lógica simples de zeros e uns, e suas raízes filosóficas mostram que até as ideias mais revolucionárias não são tão novas assim. Elas são ecos de pensamentos antigos, ruminados e recombinados. Vamos explorar como os pensadores que criaram a base da computação nos mostram que, talvez, "você pensa que escolhe", mas tudo já está definido em um grande código binário.
